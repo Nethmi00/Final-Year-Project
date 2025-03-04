@@ -36,3 +36,14 @@ html::-wedkit-scrollbar-thumb{
     background: var(--pink);
 }
 
+body{
+    background: url(C:\Users\Nethmi\Desktop\Project\GitHub\Final-Year-Project) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.header{
+    position: relative;
+    z-index: 1000;
+}
